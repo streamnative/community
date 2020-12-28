@@ -20,7 +20,6 @@ the Pulsar ecosystem is evolving in.
   - [Table of Contents]
   - [RFC List](./rfcs/README.md)
   - [When you need to follow this process]
-  - [Sub-team specific guidelines]
   - [Before creating an RFC]
   - [What the process is]
   - [The RFC life-cycle]
@@ -102,7 +101,7 @@ one must first get the RFC merged into the RFC repository as a markdown file.
 At that point the RFC is "active" and may be implemented with the goal of eventual
 inclusion into Pulsar ecosystem.
 
-  - Fork the RFC repo [RFC repository]
+  - Fork the [RFC repository]
   - Copy [`rfc/0000-template.md`](./0000-template.md) to
     `rfc/rfcs/<RFC-number>-my-feature.md` (where "my-feature" is
     descriptive). Assign the RFC number using the `Next RFC number` in 
