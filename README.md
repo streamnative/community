@@ -1,6 +1,6 @@
 # StreamNative Community
 
-![StreamNative Community Logo](./media/streamnative_community_logo.png)
+<img src="./media/streamnative_community_logo.png" width="50%" align=left>
 
 Welcome to the StreamNative Community! The main objective is to help members of the
 Apache Pulsar community who share similar interests to learn from and
