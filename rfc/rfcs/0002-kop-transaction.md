@@ -128,7 +128,7 @@ Currently, the KoP needs to read messages by the Pulsar _ManagedCursor_ and is l
 
 ## DataFlow
 
-![](https://static.slab.com/prod/uploads/cam7h8fn/posts/images/0uvZiYbajlQCuXWRWrT4K9v5.png)
+![](images/rfc-0001-kop-transaction-data-flow.png)
 
 #### 1. Find Coordinator
 
