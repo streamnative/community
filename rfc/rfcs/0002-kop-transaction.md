@@ -3,8 +3,8 @@
 - Status: `Proposal`
 - Feature Name: KoP Transaction
 - Propose Date: 2020-12-07
-- RFC PR: [streamnative/community#0000](https://github.com/streamnative/community/pull/0000)
-- Project Issue: [apache/pulsar#0000](https://github.com/apache/pulsar/issues/0000)
+- RFC PR: [streamnative/community#2](https://github.com/streamnative/community/pull/2)
+- Project Issue: [streamnative/kop#39](https://github.com/streamnative/kop/issues/39)
 - Authors: Ran Gao
 
 ## Motivation
