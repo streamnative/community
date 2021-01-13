@@ -3,8 +3,8 @@
 - Status: `In-Progress`
 - Feature Name: Transaction buffer design
 - Propose Date: 2021-1-13
-- RFC PR: [streamnative/community#0001](https://github.com/streamnative/community/pull/3)
-- Project Issue: [apache/pulsar#0001](https://github.com/apache/pulsar/pull/9195)
+- RFC PR: [streamnative/community#0003](https://github.com/streamnative/community/pull/3)
+- Project Issue: [apache/pulsar#0003](https://github.com/apache/pulsar/pull/9195)
 - Authors: congbo
 
 # Motivation
