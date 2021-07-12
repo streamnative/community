@@ -9,8 +9,6 @@ collaborate with each other on the projects of Apache Pulsar ecosystem.
 
 ## Projects
 
-- [Apache Pulsar](https://github.com/apache/pulsar)
-- [Apache BookKeeper](https://github.com/apache/bookkeeper)
 - [Kafka-on-Pulsar (KoP)](https://github.com/streamnative/kop)
 - [AMQP-on-Pulsar (AoP)](https://github.com/streamnative/aop)
 - [MQTT-on-Pulsar (MoP)](https://github.com/streamnative/mop)
