@@ -23,7 +23,7 @@ See [`rfc`](./rfc/README.md).
 
 ## Community Activities
 
-* [Apache Pulsar Chinese Community](https://github.com/streamnative/pulsar-community-loc-cn)
+* [Apache Pulsar Chinese User Group](https://github.com/streamnative/pulsar-user-group-loc-cn)
 * [TGIP (Thank goodness it is Pulsar)](https://github.com/streamnative/tgip)
 * [TGIP-CN (TGIP in Chinese)](https://github.com/streamnative/tgip-cn)
 * [Pulsar Weekly](https://github.com/streamnative/pulsar_weekly)
